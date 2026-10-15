@@ -1,0 +1,6 @@
+2026-10-15 18:50:42,685 INFO Bengaluru: extracted=43 loaded=43 rejected=0
+2026-10-15 18:50:44,700 INFO Hyderabad: extracted=43 loaded=43 rejected=0
+2026-10-15 18:50:46,650 INFO Delhi: extracted=43 loaded=43 rejected=0
+2026-10-15 18:50:48,654 INFO Mumbai: extracted=43 loaded=43 rejected=0
+2026-10-15 18:50:50,496 INFO Chennai: extracted=43 loaded=43 rejected=0
+2026-10-15 18:50:50,500 INFO Run finished with 0 failed city(ies).
